@@ -1,5 +1,5 @@
-# luxilang-frame 1.0
-## luxilang-frame 是一个在yaf基础搭建而成  
+# yaf-sim-frame 1.0
+## yaf-sim-frame 是一个在yaf基础搭建而成  
 * 加入ez_sql的数据库连接类 增强yaf的数据操作便利  
 * 可以把redis保存到session中  (可选) 默认在session文件里
 * 数据库操作

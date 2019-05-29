@@ -29,4 +29,4 @@
 *  入口文件 public/index.php 
 *  apache 或者 nginx 目录 要设置到 public文件夹为目录
 ## 有什么问题请发邮件
-1814731614@qq.com
+295064796@qq.com
